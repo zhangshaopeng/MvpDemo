@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice</string>
+    <string name="api_error_msg">数据错误</string>
+</resources>
